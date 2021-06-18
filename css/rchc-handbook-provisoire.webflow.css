@@ -1,0 +1,25 @@
+.heading {
+  background-color: #f1a64a;
+  font-family: Lato, sans-serif;
+  color: #fff;
+  font-size: 28px;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.image {
+  background-color: transparent;
+}
+
+@media screen and (max-width: 767px) {
+  .heading {
+    font-size: 22px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .heading {
+    font-size: 17px;
+  }
+}
