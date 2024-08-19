@@ -11,10 +11,10 @@
   --burlywood: #f6be63;
   --light-blue-booklet: #cde3ec;
   --color-2: #325ba9;
-  --grey-subtitles: #a8a8a8;
   --steel-blue: #0391d0;
   --white-smoke: #f8f8f8;
   --color-9: white;
+  --grey-subtitles: #a8a8a8;
   --color-7: #333;
   --light-blue-2: #bddae5;
   --sky-blue-2: #7eb8d3;
@@ -858,7 +858,7 @@ strong {
 }
 
 .footnotes {
-  color: var(--grey-subtitles);
+  color: var(--royal-blue);
   margin-bottom: 15px;
   font-family: Lato, sans-serif;
   font-size: 15px;
@@ -906,7 +906,7 @@ strong {
 }
 
 .bodylinks.footnote {
-  color: var(--grey-subtitles);
+  color: var(--royal-blue);
   text-decoration: underline;
 }
 
@@ -1539,7 +1539,7 @@ strong {
 .button-4.download {
   border: 1px none var(--gris-sombre-light);
   background-color: var(--royal-blue);
-  color: var(--orange);
+  color: var(--color-9);
   border-radius: 20px;
   font-size: 17px;
   transition: text-indent .4s, border-radius .4s, background-color .4s, color .4s, border-color .4s;
@@ -1568,7 +1568,7 @@ strong {
 .button-4.hand {
   border: 1px none var(--sky-blue);
   background-color: var(--royal-blue);
-  color: var(--orange);
+  color: var(--color-9);
   border-radius: 20px;
   margin-bottom: 15px;
   font-size: 17px;
@@ -1640,7 +1640,7 @@ strong {
 }
 
 .linkfoot {
-  color: var(--grey-subtitles);
+  color: var(--royal-blue);
   text-decoration: underline;
   transition: background-color .2s;
 }
@@ -2913,7 +2913,7 @@ strong {
 
 .credit {
   background-color: var(--color-8);
-  color: var(--grey-subtitles);
+  color: var(--royal-blue);
   text-align: left;
   -webkit-text-stroke-color: var(--white-smoke);
   margin-top: 9px;
@@ -5229,7 +5229,7 @@ strong {
   margin-top: 0;
 }
 
-.italic-text-8, .bold-text-55 {
+.linkquote.ext._2, .linkquote._1, .italic-text-8, .bold-text-55 {
   color: var(--royal-blue);
 }
 
